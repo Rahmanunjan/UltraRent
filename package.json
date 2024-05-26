@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^5.0.2",
+    "curl": "^0.1.4",
+    "solc": "^0.8.25",
+    "web3": "^4.7.0"
+  },
+  "name": "ultrarent",
+  "version": "1.0.0",
+  "description": "A decentralised Rent deposit Scheme",
+  "main": "index.js",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Decentralised",
+    "Rent",
+    "Deposit",
+    "Scheme"
+  ],
+  "author": "Adegbenga Ogungbeje",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
+}
